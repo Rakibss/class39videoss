@@ -1,0 +1,273 @@
+@media all and (max-width:1400px) {
+    .main-form {
+        width: 94%;
+        padding: 20px;
+    }
+}
+
+.barss a {
+    display: none;
+}
+.primary-menu-check {
+    display:none;
+}
+@media all and (max-width:1200px) {
+    .mid-content {
+        max-width: 95%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .services-item {
+        width: 50%;
+        margin-right: inherit;
+    }
+   
+}
+@media all and (max-width:1080px) {
+    .user-bio h2 {
+        font-size: 20px;
+    }
+}
+
+@media all and (max-width:992px) {
+    .header-logo span {
+        font-size: 23px;
+        ;
+    }
+    .main-form {
+        width: 94%;
+        padding: 20px;
+    }
+    .banner {
+        padding: 52px 0;
+        margin-top: 0;
+    }
+    .banner-text h1 {
+        font-size: 38px;
+        font-weight: 600;
+        margin-bottom: 20px;
+    }
+    .banner-text h3 {
+        color: #fff;
+        font-size: 20px;
+        font-weight: 400;
+        margin-bottom: 11px;
+    }
+    .defold-btn {
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+    .header {
+        position: relative;
+    }
+    .header-logo a img {
+        position: relative;
+    }
+    .header-logo span {
+        top: -13px;
+        left: 8px;
+    }
+    .about-video {
+        width: 100%;
+        height: 327px;
+    }
+    .about-text {
+        width: 100%;
+        margin-left: 15px;
+    }
+    .about-text h2 {
+        font-size: 35px;
+        margin-bottom: 0px;
+    }
+    .service-text h2 {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    .member-bio h3 {
+        font-size: 19px;
+    }
+    .member-bio p {
+        font-size: 17px;
+    }
+    .project-tittel h2 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .item-top h3 {
+        font-size: 25px;
+    }
+    .item-top h2 span {
+        font-size: 40px;
+    }
+    .item-top h2 {
+        font-size: 15px;
+    }
+    .item-top h4 {
+        font-size: 20px;
+    }
+    .item-top p {
+        font-size: 15px;
+    }
+    .item-bottom ul li {
+        font-size: 15px;
+    }
+    .item-bottom ul li i {
+        font-size: 20px;
+    }
+    .team-head h2 {
+        font-size: 31px;
+        margin-bottom: 60px;
+    }
+    .newsletter-content h1 {
+        font-size: 35px;
+        margin-bottom: 35px;
+    }
+    .bt-head h2 {
+        font-size: 35px;
+    }
+    .bt-content p {
+        font-size: 20px;
+    }
+    .feedback-header h2 {
+        font-size: 35px;
+    }
+    .feedback-header p {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .boxxx-cont {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .contact-map {
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .contact-form {
+        width: 100%;
+    }
+    .spirit-input .deffolt-input {
+        width: 42%;
+    }
+    .contact-footer p {
+        font-size: 25px;
+    }
+}
+@media all and (max-width:860px) {
+    .prinery-menu ul li a {
+        padding: 0 10px;
+        font-size: 15px;
+    }
+    .main-form {
+        width: 94%;
+        padding: 20px;
+    }
+    .header-btn a {
+        font-size: 19px;
+    }
+    .project-item {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
+@media all and (max-width:800px) {
+    .header-logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .header-menu {
+        width: 50%;
+    }
+    .header-btn {
+        width: 50%;
+    }
+    .prinery-menu ul {
+        visibility: hidden;
+        opacity: 0;
+        height: 0;
+    }
+    .barss a {
+        font-size: 40px;
+        color: #6278df;
+        display: block;
+    }
+    .services-item {
+        width: 100%;
+        margin-right: inherit;
+    }
+    .header-btn a {
+        margin-top: -4px;
+    }
+    .team-member {
+        width: 47%;
+        margin-bottom: 15px;
+    }
+    .deffolt-input {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .blog-item-them {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .spirit-input .deffolt-input {
+        width: 90%;
+    }
+    .deffolt-input {
+        width: 90%;
+    }
+    .main-form {
+        width: 97%;
+    }
+    .main-form {
+        width: 94%;
+        padding: 20px;
+    }
+    .primary-menu-check:checked ~ ul{
+        visibility: visible;
+        opacity: 1;
+        height: 100%;
+    }
+    .prinery-menu ul li {
+        display: block;
+    }
+    .prinery-menu ul li ul {
+        left: 146px;
+        top: -66%;
+    }
+    .primary-menu-check {
+        display: block;
+        height: 50px;
+        width: 50px;
+        opacity: 0;
+        cursor: pointer;
+    }
+    .barss a {
+        position: absolute;
+        top: 66px;
+        left: 25px;
+        pointer-events: none;
+    }
+
+}
+@media all and (max-width:550px) {
+    .defold-btn {
+        display: block;
+        margin-bottom: 15px;
+    }
+    .newsletter-content h1 {
+        font-size: 30px;
+        margin-bottom: 35px;
+    }
+    .team-member {
+        width: 100%;
+    }
+    .main-form {
+        width: 94%;
+        padding: 20px;
+    }
+    
+
+}
+
